@@ -1,6 +1,6 @@
 # About us
-KevFR8 Studio is a solo team developing video games. Our goal is to offer original, captivating and fun games! <br>
-Support us by sharing our productions with your friends and family and letting us know what you think!
+KevFR8 Studio is a showcase studio specializing in game development. The goal is to offer original, captivating and fun games! <br>
+You can support us by sharing our productions with your friends and family and letting us know what you think!
 
 ## Official Links
 - [Our website](https://kevfr8studio.github.io)
