@@ -5,4 +5,5 @@ You can support us by sharing our productions with your friends and family and l
 ## Official Links
 - [Our website](https://kevfr8studio.github.io)
 - [Instagram](https://www.instagram.com/kevfr8studio/)
+- [YouTube](<a href="https://www.youtube.com/@KevFR8Studio">)
 - [Itch.io](https://kevfr8.itch.io)
